@@ -1,0 +1,10 @@
+html, body{
+    margin:o;
+    padding: 0;
+}
+
+#img-perfil{
+    width: 350px;
+    border: 2px solid blue;
+    border-radius: 50%;
+}
